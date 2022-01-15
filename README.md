@@ -4,7 +4,7 @@
 > This is Laravel Migration and Seeder files for the Nigeria States and Local Governments
 
 
-### How to use this Files
+### How to use these Files
 
 
 
